@@ -1,6 +1,7 @@
 # Deflationary DeFi token, IDO Presale contract and Token/Liquidity Locker contract
 
-This repo holds Deflationary token contract, Presale contract, Locker contract and tests around it using Truffle
+This repo holds Deflationary token contract, Presale contract, Locker contract and tests around it using Truffle.
+Scripts folder holds example integrations: web.js based demo script and ReactJS based demo app.
 
 ## Deflationary token with tokenomics and Automated Liquidity Acquisition
 
